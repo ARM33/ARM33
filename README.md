@@ -139,7 +139,9 @@ Exploratory data analysis and sales performance deep-dive on the Superstore data
 ## 🎓 Education
 
 - 🎓 **PhD in Computer Science** — Pontifical Catholic University of Valparaíso *(U.S. equivalent accredited)*
-- 🎓 **B.Sc. in Applied Computer Science** — University of Valparaíso
+- 🎓 **Master of Science in Computer Science** — Pontifical Catholic University of Valparaíso *(U.S. equivalent accredited)*
+- 🎓 **Master in Computer Engineer** — Pontifical Catholic University of Valparaíso *(U.S. equivalent accredited)*
+- 🎓 **B.Sc. in Applied Computer Science** — University of Valparaíso *(U.S. equivalent accredited)*
 
 ---
 
