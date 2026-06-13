@@ -119,8 +119,9 @@ Exploratory data analysis and sales performance deep-dive on the Superstore data
 
 | Year | Title | Venue |
 |------|-------|-------|
-| 2024 | [Patient Mortality Prediction Using Clinical Notes](https://github.com/ARM33) | ICONIP 2024 |
-| 2024 | [Senti-Sequence: Learning to Represent Texts for Sentiment Polarity Classification](https://github.com/ARM33) | Applied Sciences |
+| 2025 | [Patient Mortality Prediction Using Clinical Notes](https://link.springer.com/chapter/10.1007/978-981-96-7005-5_5)| Springer Nature Jun 2025|
+| 2024 | [Senti-Sequence: Learning to Represent Texts for Sentiment Polarity Classification](https://www.mdpi.com/2076-3417/14/3/1033)| Applied Sciences |
+| 2021 | [Sourcing Pandemic News: A Cross-National Computational Analysis of Mainstream Media Coverage of COVID-19 on Facebook, Twitter, and Instagram](https://www.tandfonline.com/doi/figure/10.1080/21670811.2021.1942114?scroll=top&needAccess=true) | Taylor & Francis 2021 |
 
 *All publications available on [LinkedIn](https://linkedin.com/in/andres-ramos-magna)*
 
