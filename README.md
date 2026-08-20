@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Mission Viejo, California &nbsp;|&nbsp;
+  📍 Houston, Texas &nbsp;|&nbsp;
   🇺🇸 U.S. Work Authorized &nbsp;|&nbsp;
   🌎 Open to Relocation
 </p>
